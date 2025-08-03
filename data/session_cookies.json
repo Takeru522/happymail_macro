@@ -1,0 +1,465 @@
+[
+  {
+    "domain": "happymail.co.jp",
+    "httpOnly": false,
+    "name": "__hp__p_s",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "{%22message_detail%22:null}"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1754152158,
+    "httpOnly": false,
+    "name": "appier_page_isView_tnmlavCfSjAoHVJ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "af5fb4193c36d74215cffeda4e76236e334494762cbc1321cabeab713fa8abf2"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1788708558,
+    "httpOnly": false,
+    "name": "_ga_6RNFQBCG0K",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GS2.1.s1754148525$o1$g1$t1754148558$j27$l0$h0"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1759332557,
+    "httpOnly": true,
+    "name": "message_image_icon_popup_38432823",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "httpOnly": false,
+    "name": "__hp__b_s",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "httpOnly": false,
+    "name": "__hp__p",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "{%22message_detail%22:null%2C%22ca%22:{%22prev%22:0%2C%22current%22:1%2C%22next%22:2%2C%22max%22:-1%2C%22count%22:5%2C%22limit%22:0%2C%22display%22:[1]}}"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1754152158,
+    "httpOnly": false,
+    "name": "appier_page_isView_nijuUAgfpBA6haG",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "af5fb4193c36d74215cffeda4e76236e334494762cbc1321cabeab713fa8abf2"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1769700554,
+    "httpOnly": false,
+    "name": "_atrk_uid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "b3e6649ddaa310b238338f9a51ba14a66319fe1f319e35b7e16443d15f6d3383"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "httpOnly": false,
+    "name": "__hp__d_s",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1754753358,
+    "httpOnly": false,
+    "name": "appier_utmz",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%7B%22csr%22%3A%22happymail.co.jp%22%2C%22timestamp%22%3A1754148555%2C%22lcsr%22%3A%22happymail.co.jp%22%7D"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1759332550,
+    "httpOnly": true,
+    "name": "phishing_scam_38432823",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "expiry": 1754231350,
+    "httpOnly": false,
+    "name": "gmobank_popup_38432823",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1755358150,
+    "httpOnly": true,
+    "name": "mw_p_c",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "m_f_w_"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "httpOnly": false,
+    "name": "__hp__t_38432823",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "{%2218%22:%220%22%2C%2219%22:%22100%22%2C%2238%22:4}"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "httpOnly": false,
+    "name": "__hp__p_i_s",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "null"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1788708550,
+    "httpOnly": true,
+    "name": "canendad_login",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "login"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "expiry": 1785684558,
+    "httpOnly": false,
+    "name": "__rtbh.lid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22hpngd1PtOtnIMzJbz9ta%22%2C%22expiryDate%22%3A%222026-08-02T15%3A29%3A18.318Z%22%7D"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1788708550,
+    "httpOnly": true,
+    "name": "aiqua_login",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "login"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1755358157,
+    "httpOnly": true,
+    "name": "__s__mut",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "08026250552_"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1754152158,
+    "httpOnly": false,
+    "name": "appier_pv_counternijuUAgfpBA6haG",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "2"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1756740550,
+    "httpOnly": false,
+    "name": "w",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "JHevOykAYV+yLaSKnnlh9RbfNawPCOY45tBZxuh/YBU="
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1754150358,
+    "httpOnly": false,
+    "name": "_atrk_sessidx",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "7"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1755358129,
+    "httpOnly": false,
+    "name": "_qg_cm",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "2"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "expiry": 1754148827,
+    "httpOnly": false,
+    "name": "dicbo_id",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "%7B%22dicbo_fetch%22%3A1754148527827%7D"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "expiry": 1754150358,
+    "httpOnly": false,
+    "name": "_im_ses.1014761",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "expiry": 1788103728,
+    "httpOnly": false,
+    "name": "_im_id.1014761",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "46ca5f5a5aa75284.1754148528."
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1785684558,
+    "httpOnly": false,
+    "name": "QGUserId",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "3796473197864869"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "httpOnly": false,
+    "name": "__hp__d_r",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "null"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1785684527,
+    "httpOnly": false,
+    "name": "_yjsu_yjad",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1754148527.e73386a0-0bbe-4e71-abeb-866e1a0bb93e"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1754152158,
+    "httpOnly": false,
+    "name": "appier_pv_countertnmlavCfSjAoHVJ",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "2"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1788708559,
+    "httpOnly": false,
+    "name": "_im_vid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "01K1NPCPVVSVX55S7YZKAWA0YP"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1785684558,
+    "httpOnly": false,
+    "name": "_qg_fts",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1754148527"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1754150358,
+    "httpOnly": false,
+    "name": "_atrk_ssid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "31jQGFYyqUt6fLvRTj83aA"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1788708525,
+    "httpOnly": false,
+    "name": "__lt__cid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "3265509e-68fa-4a69-858a-f0c56e71261e"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1788708550,
+    "httpOnly": true,
+    "name": "dynalyst_login",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "login"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1754150325,
+    "httpOnly": false,
+    "name": "__lt__sid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "94d1e1f8-6896cbbe"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "expiry": 1785684526,
+    "httpOnly": false,
+    "name": "__rtbh.uid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22unknown%22%2C%22expiryDate%22%3A%222026-08-02T15%3A28%3A46.635Z%22%7D"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1788312553,
+    "httpOnly": false,
+    "name": "cto_lwid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "a4c5b036-4da7-4415-a2f0-7b714c9ca28b"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1788708550,
+    "httpOnly": true,
+    "name": "crit_login",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "login"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1756740557,
+    "httpOnly": true,
+    "name": "__s__iof",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "1867300108688e2ea20dda06.66318465.s111.151"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1788708550,
+    "httpOnly": true,
+    "name": "appier_login",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "login"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "expiry": 1755358126,
+    "httpOnly": false,
+    "name": "lamp_cookie_synced_flag",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "2"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1788708525,
+    "httpOnly": false,
+    "name": "_ga",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "GA1.1.1691064297.1754148525"
+  },
+  {
+    "domain": "happymail.co.jp",
+    "expiry": 1785684550,
+    "httpOnly": false,
+    "name": "__hp__checked_age_popup_38432823",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1754156330,
+    "httpOnly": false,
+    "name": "_fbp",
+    "path": "/sp/app/html",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "fb.3.1754148554636.1529423800"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1785684558,
+    "httpOnly": false,
+    "name": "_atrk_siteuid",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1iXoDbLSrjzAQwWX"
+  },
+  {
+    "domain": ".happymail.co.jp",
+    "expiry": 1761924524,
+    "httpOnly": false,
+    "name": "_gcl_au",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "1.1.2126477756.1754148525"
+  }
+]

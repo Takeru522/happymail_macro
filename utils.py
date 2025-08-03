@@ -15,3 +15,5 @@ def append_to_csv(file_path, row):
         if not file_exists:
             writer.writerow(["user_name", "status", "message"])
         writer.writerow(row)
+
+
