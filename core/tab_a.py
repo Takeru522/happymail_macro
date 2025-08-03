@@ -24,7 +24,7 @@ def run_tab_a(driver):
     # ✅ Find all message thread links
     print("📥 Scanning 未返信 threads...")
     time.sleep(3)
-    threads = driver.find_elements(By.CSS_SELECTOR, "li.ds_user_post_link_item_r a")
+    threads = driver.find_elements(By.CSS_SELECTOR, "li.ds_message_list_mini a")
     print(f"📬 Found {len(threads)} threads")
 
     for index, thread in enumerate(threads):
@@ -56,6 +56,7 @@ def run_tab_a(driver):
                     break
                 except:
                     continue
+
 
             if not message_element:
                 print(f"⚠️ Could not find message element for {user_name}")
